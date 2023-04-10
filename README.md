@@ -1,2 +1,2 @@
-# Wi-Fi-Connector
-This will connect to the Wi-Fi
+# Auto Login
+Simple Python code to login on any website.
